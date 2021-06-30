@@ -1,4 +1,3 @@
-
 window.addEventListener("DOMContentLoaded", function (event) {
     window.focus();
 
